@@ -76,10 +76,6 @@ ul.interviewlist {
     list-style-type: circle;
 }
 
-ol {
-    list-style-type: none;
-}
-
 img {
     border-radius: 5px;
     float: right;
